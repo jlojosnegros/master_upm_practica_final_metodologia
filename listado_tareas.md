@@ -32,8 +32,9 @@
 
 
 
-Leyenda:
-[ ] Sin hacer
-[~] En proceso, no me convence aun.
-[-] Terminado, revisar.
-[x] Terminado, entregable.
+|Leyenda ||
+|-------:|:-------------------------------------|
+| [ ]    | Sin hacer				|
+| [~]    | En proceso, no me convence aun.	|
+| [-] 	 | Terminado, revisar.	      		|
+| [x] 	 | Terminado, entregable.		|
