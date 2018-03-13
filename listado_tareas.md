@@ -1,14 +1,14 @@
 
 - [ ] Modelo del dominio
    - [ ] Indice
-   - [ ] Conceptos Generales - Diagrama de Clases
-   - [ ] Estado Inicial - Diagrama de Objetos
-   - [ ] Estado de Victoria - Diagrama de Objetos
+   - [~] Conceptos Generales - Diagrama de Clases
+   - [-] Estado Inicial - Diagrama de Objetos
+   - [-] Estado de Victoria - Diagrama de Objetos
    - [ ] Juego - Diagrama de Actividad
-   - [ ] Movimiento de Stock a Waste - Diagrama de Secuencia
+   - [-] Movimiento de Stock a Waste - Diagrama de Secuencia
    - [ ] Movimiento de Waste a Tableu - Diagrama de Secuencia
    - [ ] Movimiento de Tableu a Tableu - Diagrama de Secuencia
-   - [ ] Ciclo de vida de una Carta - Diagrama de Estados
+   - [-] Ciclo de vida de una Carta - Diagrama de Estados
 
 - [ ] Vista de Casos de uso
    - [ ] Indice
@@ -28,3 +28,12 @@
       - [ ] Movimiento de Stock a Waste - Diagrama de clases y colaboracion
       - [ ] Movimiento de Waste a Tableu - Diagrama de clases y colaboracion
       - [ ] Movimiento de Tableu a Tableu - Diagrama de clases y colaboracion
+
+
+
+
+Leyenda:
+[ ] Sin hacer
+[~] En proceso, no me convence aun.
+[-] Terminado, revisar.
+[x] Terminado, entregable.
