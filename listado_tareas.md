@@ -6,7 +6,7 @@
    - [-] Estado de Victoria - Diagrama de Objetos
    - [-] Juego - Diagrama de Actividad
    - [-] Movimiento de Stock a Waste - Diagrama de Secuencia
-   - [ ] Movimiento de Waste a Tableu - Diagrama de Secuencia
+   - [~] Movimiento de Waste a Tableu - Diagrama de Secuencia
    - [ ] Movimiento de Tableu a Tableu - Diagrama de Secuencia
    - [-] Ciclo de vida de una Carta - Diagrama de Estados
 
