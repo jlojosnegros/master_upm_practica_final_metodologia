@@ -12,8 +12,8 @@
 
 - [ ] Vista de Casos de uso
    - [ ] Indice
-   - [ ] Actor y Casos de Uso - Diagrama de Casos de Uso
-   - [ ] Contexto de Casos de Uso - Diagrama de Estados
+   - [-] Actor y Casos de Uso - Diagrama de Casos de Uso
+   - [-] Contexto de Casos de Uso - Diagrama de Estados
    - [ ] Priorizacion de Casos de Uso - Diagrama de Casos de Uso
    - [ ] Especificacion de Casos de Uso
       - [ ] Movimiento de Stock a Waste - Diagrama de Estados
