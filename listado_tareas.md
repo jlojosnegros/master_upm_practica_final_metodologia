@@ -17,7 +17,7 @@
    - [ ] Priorizacion de Casos de Uso - Diagrama de Casos de Uso
    - [ ] Especificacion de Casos de Uso
       - [-] Movimiento de Stock a Waste - Diagrama de Estados
-      - [ ] Movimiento de Waste a Tableu - Diagrama de Estados
+      - [-] Movimiento de Waste a Tableu - Diagrama de Estados
       - [ ] Movimiento de Tableu a Tableu - Diagrama de Estados.
 
    - [ ] Prototipo de interface - En una sola plataforma (web o movil) es suficiente.
