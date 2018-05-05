@@ -16,7 +16,7 @@
    - [-] Contexto de Casos de Uso - Diagrama de Estados
    - [ ] Priorizacion de Casos de Uso - Diagrama de Casos de Uso
    - [ ] Especificacion de Casos de Uso
-      - [ ] Movimiento de Stock a Waste - Diagrama de Estados
+      - [-] Movimiento de Stock a Waste - Diagrama de Estados
       - [ ] Movimiento de Waste a Tableu - Diagrama de Estados
       - [ ] Movimiento de Tableu a Tableu - Diagrama de Estados.
 
